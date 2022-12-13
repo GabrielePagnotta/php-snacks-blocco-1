@@ -10,7 +10,7 @@ Passare come parametri GET name, mail e age e verificare
  $age=$_GET[age];
  $mail=$_GET[mail];
  ?>
-.
+
  <!DOCTYPE html>
  <html lang="en">
  <head>
