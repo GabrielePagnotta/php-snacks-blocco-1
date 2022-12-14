@@ -9,9 +9,11 @@ for ($i=0; $i < 15; $i++) {
     
 
     if(!in_array($random,$numeri)){
-        echo $numeri[]=$random ."<br>";
+       echo $numeri[]=$random ."<br>";
         
     };
+
+  
     
 }
 

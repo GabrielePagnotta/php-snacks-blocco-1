@@ -47,7 +47,7 @@ $db = [
         for ($i=0; $i < count($db["teachers"]); $i++) { 
             $professori=$db["teachers"][$i];
         ?>
-        <p><?php echo $professori['name'];?></p>
+        <p><?php echo $professori['name']?></p>
         <p><?php echo $professori['lastname']?></p>
         <?php } ?>
     </div>
